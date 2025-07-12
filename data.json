@@ -23,64 +23,48 @@
     "Is On": true,
     "Unit": 100,
     "Is Exit": false,
-    "Fire Detected": true,
-    "Last Notification Date": July 12 2025,
-    "Last Notification Time": 0800
+    "Fire Detected": true
   },
   "smoke2": {
     "Is On": true,
     "Unit": 101,
     "Is Exit": false,
-    "Fire Detected": false,
-    "Last Notification Date": July 12 2025,
-    "Last Notification Time": 0755
+    "Fire Detected": false
   },
   "smoke3": {
     "Is On": true,
     "Unit": 101,
     "Is Exit": true,
-    "Fire Detected": true,
-    "Last Notification Date": July 12 2025,
-    "Last Notification Time": 0758
+    "Fire Detected": true
   },
   "smoke4": {
     "Is On": false,
     "Unit": 103,
     "Is Exit": false,
-    "Fire Detected": false,
-    "Last Notification Date": Jul 11 2025,
-    "Last Notification Time": 0200
+    "Fire Detected": false
   },
   "smoke5": {
     "Is On": true,
     "Unit": 105,
     "Is Exit": false,
-    "Fire Detected": false,
-    "Last Notification Date": July 12 2025,
-    "Last Notification Time": 0802
+    "Fire Detected": false
   },
   "smoke6": {
     "Is On": true,
     "Unit": 102,
     "Is Exit": false,
-    "Fire Detected": false,
-    "Last Notification Date": July 12 2025,
-    "Last Notification Time": 0801
+    "Fire Detected": false
   },
   "smoke7": {
     "Is On": true,
     "Unit": 104,
     "Is Exit": false,
-    "Fire Detected": false,
-    "Last Notification Date": July 12 2025,
-    "Last Notification Time": 0800
+    "Fire Detected": false
   },
   "smoke8": {
     "Is On": true,
     "Unit": 105,
     "Is Exit": true,
-    "Fire Detected": false,
-    "Last Notification Date": July 12 2025,
-    "Last Notification Time": 0805
+    "Fire Detected": false
   }
 }
