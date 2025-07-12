@@ -1,0 +1,86 @@
+{
+  "cam1": {
+    "Is On": true,
+    "Unit": 101,
+    "People Detected": 3
+  },
+  "cam2": {
+    "Is On": true,
+    "Unit": 102,
+    "People Detected": 1
+  },
+  "cam3": {
+    "Is On": true,
+    "Unit": 103,
+    "People Detected": 0
+  },
+  "cam4": {
+    "Is On": true,
+    "Unit": 105,
+    "People Detected": 2
+  },
+  "smoke1": {
+    "Is On": true,
+    "Unit": 100,
+    "Is Exit": false,
+    "Fire Detected": true,
+    "Last Notification Date": July 12 2025,
+    "Last Notification Time": 0800
+  },
+  "smoke2": {
+    "Is On": true,
+    "Unit": 101,
+    "Is Exit": false,
+    "Fire Detected": false,
+    "Last Notification Date": July 12 2025,
+    "Last Notification Time": 0755
+  },
+  "smoke3": {
+    "Is On": true,
+    "Unit": 101,
+    "Is Exit": true,
+    "Fire Detected": true,
+    "Last Notification Date": July 12 2025,
+    "Last Notification Time": 0758
+  },
+  "smoke4": {
+    "Is On": false,
+    "Unit": 103,
+    "Is Exit": false,
+    "Fire Detected": false,
+    "Last Notification Date": Jul 11 2025,
+    "Last Notification Time": 0200
+  },
+  "smoke5": {
+    "Is On": true,
+    "Unit": 105,
+    "Is Exit": false,
+    "Fire Detected": false,
+    "Last Notification Date": July 12 2025,
+    "Last Notification Time": 0802
+  },
+  "smoke6": {
+    "Is On": true,
+    "Unit": 102,
+    "Is Exit": false,
+    "Fire Detected": false,
+    "Last Notification Date": July 12 2025,
+    "Last Notification Time": 0801
+  },
+  "smoke7": {
+    "Is On": true,
+    "Unit": 104,
+    "Is Exit": false,
+    "Fire Detected": false,
+    "Last Notification Date": July 12 2025,
+    "Last Notification Time": 0800
+  },
+  "smoke8": {
+    "Is On": true,
+    "Unit": 105,
+    "Is Exit": true,
+    "Fire Detected": false,
+    "Last Notification Date": July 12 2025,
+    "Last Notification Time": 0805
+  }
+}
