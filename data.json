@@ -59,7 +59,7 @@
     "Is On": true,
     "Unit": 104,
     "Is Exit": false,
-    "Fire Detected": false
+    "Fire Detected": true
   },
   "smoke8": {
     "Is On": true,
